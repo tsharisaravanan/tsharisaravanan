@@ -5,17 +5,17 @@
 
 <h4> 🙋‍♂️ About Me </h4>
 
-- 💼 Work: Data Scientist with a demonstrated history of solving real world business problems across a wide range of domains. Adept at utilizing Machine Learning, Decision Optimization, Statistical Modeling, Predictive Analytics and Cloud Capabilities to deliver tangible results to business.
+- 💼 <b>Work:</b> Data Scientist with a demonstrated history of solving real world business problems across a wide range of domains. Adept at utilizing Machine Learning, Decision Optimization, Statistical Modeling, Predictive Analytics and Cloud Capabilities to deliver tangible results to business.
 
-- 🏫 Degree: Bachelor's Degree in Computer Science & Engineering
+- 🏫 <b>Degree:</b> Bachelor's Degree in Computer Science & Engineering
 
-- ⚽️ Hobbies: Cricket, Playing video games.
+- ⚽️ <b>Hobbies:</b> Cricket, Playing video games.
 
-- 📫 How to reach me:
+- 📫 <b>How to reach me:</b>
 
-   * 📧 Email: tsharisaravanan@gmail.com
+   * 📧 <b>Email:</b> tsharisaravanan@gmail.com
     
-   * 📍 Linkedin: https://www.linkedin.com/in/tsharisaravanan/
+   * 📍 <b>Linkedin:</b> https://www.linkedin.com/in/tsharisaravanan/
    
    
 <img align="center" alt="GIF" src="https://raw.githubusercontent.com/SagarDhandare/SagarDhandare/master/devloper.gif" width="700"/>
