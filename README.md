@@ -1,9 +1,9 @@
-<h1> Heyy 🙋‍♂️ I'm Harikumar Thiruniraiselvam,</h1>
+<h1> Heyy <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Harikumar Thiruniraiselvam,</h1>
 <h5> An aspiring Data Scientist & Machine Learning person.✌️ </h5>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" img width="5000" height="3" />
 
-<h4> 👨🏻‍💻 About Me </h4>
+<h4> 🙋‍♂️ About Me </h4>
 
 - 💼 Work: Data Scientist with a demonstrated history of solving real world business problems across a wide range of domains. Adept at utilizing Machine Learning, Decision Optimization, Statistical Modeling, Predictive Analytics and Cloud Capabilities to deliver tangible results to business.
 
